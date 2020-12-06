@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+deploy:
+  type: git
+  repo: https://github.com/CaiStark/CaiStark.github.io/
+  branch: master
